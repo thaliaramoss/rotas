@@ -1,0 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+body {
+    height: 100vh;
+    overflow: hidden;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: azure;
+    padding: 4rem 8rem;
+}
